@@ -8,8 +8,8 @@ The goal of this project is to convert raw data into **actionable business insig
 
 ## 📊 Dashboard Highlights
 
-* 🔹 **Total Sales** – Overall sales performance
-* 🔹 **Number of Items Sold** – Product movement tracking
+* 🔹 **Total Sales** – The overall revenue generated from all items
+* 🔹 **Number of Items Sold** – Total count of different item sold
 * 🔹 **Average Sales per Outlet** – Efficiency insights
 * 🔹 **Customer Ratings** – Service quality insights
 * 🔹 **Item Visibility** – Product reach analysis
