@@ -26,11 +26,6 @@ The goal of this project is to convert raw data into **actionable business insig
 
 ---
 
-## 📷 Dashboard Screenshots
-
-> You can find visual previews of the dashboard in the `/screenshots` folder (upload 2–3 high-quality images).
-
----
 
 ## 📁 Files Included
 
