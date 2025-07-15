@@ -34,7 +34,7 @@ The goal of this project is to convert raw data into **actionable business insig
 
 ## 📁 Files Included
 
-* `Blinkit_Business_Analysis.pbix` – Main Power BI dashboard file
+* `Blinkit_Business_Analysis.pbip` – Main Power BI dashboard file
 * `/screenshots` – Folder with dashboard images
 * `README.md` – Project overview and documentation
 
