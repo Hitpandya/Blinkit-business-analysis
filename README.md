@@ -10,10 +10,10 @@ The goal of this project is to convert raw data into **actionable business insig
 
 * 🔹 **Total Sales** – The overall revenue generated from all items
 * 🔹 **Number of Items Sold** – Total count of different item sold
-* 🔹 **Average Sales per Outlet** – Efficiency insights
+* 🔹 **Average Sales** – The average revenue per sale
 * 🔹 **Customer Ratings** – Service quality insights
 * 🔹 **Item Visibility** – Product reach analysis
-* 🔹 **Slicers** – Filter by outlet type, location type, region, and item category
+* 🔹 **Slicers** – Filter by outlet location type, outlet size and item category
 
 ---
 
@@ -30,7 +30,6 @@ The goal of this project is to convert raw data into **actionable business insig
 ## 📁 Files Included
 
 * `Blinkit_Business_Analysis.pbip` – Main Power BI dashboard file
-* `/screenshots` – Folder with dashboard images
 * `README.md` – Project overview and documentation
 
 ---
